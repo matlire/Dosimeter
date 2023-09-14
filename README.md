@@ -1,6 +1,10 @@
 # Dosimeter
 Arduino &amp; RadSens &amp; Nextion simple dosimeter
 
+### Example device
+![Dosimeter-ed](https://github.com/matlire/Dosimeter/assets/137503385/6336a57b-5e8d-480d-b218-d731626ee2ce)
+
+
 ### About
 It's a simple dosimeter to meausure radiation level in uR/h or uSv/h. Also some functions as real-time clock or battery power may not work properly.
 
