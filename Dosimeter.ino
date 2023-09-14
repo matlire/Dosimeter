@@ -1,7 +1,7 @@
 /*
 Dozimeter arduino project
 
-First you need to insrall these libraries from arduino library manager:
+First you need to install these libraries from arduino library manager:
 - ClimateGuard RadSens
 - Easy Nextion Library
 - GyverButton
